@@ -1,35 +1,13 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+Arturo Juan Deandrea
+Hola, me llamo Arturo Juan Deandrea, nací en Entre Rios el 14/06/2001 y actualmente tengo 23 años. Ingrese a la tecnicatura en programación en 2023, este es mi tercer cuatrimestre.
 
-Bienvenidxs a
-# Programación con objetos I
+Anteriormente estaba cursando la licenciatura en Economía en la UNSAM, pero en 2022 y con el 50% de la carrera aprobada abandoné porque dejó de gustarme la carrera y la economía en sí, además de no verme a mi mismo ejerciendo la profesión en el futuro.
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
+En esta oportunidad espero aprender mucho en profundidad sobre programación y computación en general porque, aunque siempre tuve cercanía con la PC, nunca indagué mas allá de lo basico y esencial y es una cuenta pendiente que tengo conmigo mismo.
 
-```
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
-
-## Datos de la cursada :book:
-* Modalidad Mixta
-* Horario comisión **turno noche**: Martes 18hs.
-* Horario comisión **turno mañana**: Miercoles 8hs.
-* Horario **ambas comisión**: Sabados 10hs.
-* Este cuatrimestre los profesores somos Gerardo González, Lucas Spigariol y Hernán Coniglio
-* Además nos acompañan como colaboradores Valentino Chiappani, Manuel Nuñez, Tobias Di Salvo, Enzo Alarcón, Cristian Gonzalez, Gabriel Ledezma, Maia Barrionuevo y Gabriel Álvarez.
-
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/656909199510601744/1088949265306501130) y ver el canal de Discord.
-
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-
-* [Guía Ràpida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Sobre mi:
+        Vivo en Hurlingham.
+        Me gustan los videojuegos desde que tengo memoria, recuerdo cuando por primera vez , con 4 años de edad, pase toda una noche jugando Age of Empires II.
+        Me gusta todo tipo de música.
+        Tengo 2 perros y 2 gatos que conviven en armonía.
+        Vivo con mi madre y mi hermano.
